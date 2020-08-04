@@ -1,5 +1,6 @@
 ### Hi there 👋 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+### Connect with me
 <a href="https://www.linkedin.com/in/sergiu-craioveanu-677360160/">
   <img align="left" alt="Sergiu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
