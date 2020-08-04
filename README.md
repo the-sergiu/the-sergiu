@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi, I'm Sergiu 👋 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/sergiu-craioveanu-677360160/">
