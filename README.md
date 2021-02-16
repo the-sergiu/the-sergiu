@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/sergiu-craioveanu-677360160/">
   <img align="left" alt="Sergiu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/the-sergiu">
-  <img align="left" alt="Sergiu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://www.hackerrank.com/sergiucraioveanu">
   <img align="left" alt="Sergiu's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
