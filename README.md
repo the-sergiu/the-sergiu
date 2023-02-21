@@ -4,13 +4,7 @@
 <a href="https://www.linkedin.com/in/sergiu-craioveanu-677360160/">
   <img align="left" alt="Sergiu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/sergiucraioveanu">
-  <img align="left" alt="Sergiu's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://leetcode.com/thesergiu/">
-  <img align="left" alt="Sergiu's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<br />
+
 <!--
 **the-sergiu/the-sergiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
